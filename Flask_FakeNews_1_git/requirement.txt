@@ -1,0 +1,5 @@
+python2.7
+flask
+flask-script
+flask-migrate
+flask-sqlalchemy
